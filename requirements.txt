@@ -8,3 +8,4 @@ qrcode
 streamlit
 PyMuPDF
 Pillow
+pdf2image
