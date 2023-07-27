@@ -1,0 +1,10 @@
+pandas
+DateTime
+image
+reportlab
+plotly
+qrcode
+
+streamlit
+PyMuPDF
+Pillow
