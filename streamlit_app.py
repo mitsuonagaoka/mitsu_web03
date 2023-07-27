@@ -1039,6 +1039,7 @@ def pdf_to_images(file_path):
 
 def invoice_show44():
     st.title("PDF Viewer")
+    st.title("PDF Viewer")
 
     uploaded_file = st.file_uploader("PDFファイルをアップロードしてください", type=["pdf"])
 
