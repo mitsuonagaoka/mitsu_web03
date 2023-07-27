@@ -1135,13 +1135,13 @@ elif choice == "顧客管理5":
 
     # 選択されたサブメニューの情報を表示
     if submenu_choice == "顧客5検索0":
-        findings50()
+        st.title('findings50()')
     elif submenu_choice == "顧客5追加1":
-        addings51()
+        st.title('addings51()')
     elif submenu_choice == "顧客5編集2":
-        changes52()
+        st.title('changes52()')
     elif submenu_choice == "顧客5削除3":
-        deletes53()
+        st.title('deletes53()')
 
 
 if choice == "総合生産管理":
@@ -1189,4 +1189,4 @@ if choice == "総合生産管理":
     image1 = Image.open('./data/狐.png')
     st.image(image1, width=70)
 
-    # streamlit run streamlit_app121.py
+    # streamlit run streamlit_app.py
